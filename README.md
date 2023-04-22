@@ -30,8 +30,8 @@ Sou um estudante dedicado, organizado e aficionado por tecnologia do Brasil 🇧
 
 
 <a href="https://github.com/LeoNouz/Projeto-LIFO-cpp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LeoNouz&repo=github-readme-stats&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LeoNouz&repo=Projeto-LIFO-cpp&theme=buefy" />
 </a>
 <a href="https://github.com/LeoNouz/SFML-Project-Maverick">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LeoNouz&repo=anuraghazra.github.io&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LeoNouz&repo=SFML-Project-Maverick&theme=buefy" />
 </a>
