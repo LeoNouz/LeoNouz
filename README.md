@@ -29,9 +29,9 @@ Sou um estudante dedicado, organizado e aficionado por tecnologia do Brasil 🇧
 ### Top Repositórios
 
 
+<a href="https://github.com/LeoNouz/Sistema-Web-Full-Stack">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LeoNouz&repo=Sistema-Web-Full-Stack&theme=buefy" />
+</a>
 <a href="https://github.com/LeoNouz/Projeto-LIFO-cpp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LeoNouz&repo=Projeto-LIFO-cpp&theme=buefy" />
-</a>
-<a href="https://github.com/LeoNouz/SFML-Project-Maverick">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LeoNouz&repo=SFML-Project-Maverick&theme=buefy" />
 </a>
